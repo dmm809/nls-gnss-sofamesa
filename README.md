@@ -162,6 +162,8 @@ These are the parameters, which are taken into account in the [Table 4 (Grading 
 
 ### Phases
 
+*Please find the [Measurement_File_Naming_and_Folder_Structures.pdf](Measurement_File_Naming_and_Folder_Structures.pdf) file, which describes the measurement file naming and folder structures.*
+
 1.  Download all of the files provided as a .zip file from the Releases page: https://github.com/nlsfi/nls-gnss-sofamesa/releases
 2.  Unzip the files to a proper location, where you want to create all of your project files. *If you have your own measurement files and reference point coordinates file, those should all be located in the same folder, in which this software is located.*
 3.  Install Anaconda Platform for Windows: https://www.anaconda.com/
@@ -188,7 +190,6 @@ These are the parameters, which are taken into account in the [Table 4 (Grading 
 8.  Launch Jupyter Notebook. In Anaconda Prompt, write: *jupyter-notebook*
 9.  When the browser is launched, select the [NLS_GNSS_SOFAMESA_Main_Program.ipynb](NLS_GNSS_SOFAMESA_Main_Program.ipynb) file from the directory view.
 10. Restart the current kernel and re-run the whole notebook (OR run the notebook cell by cell for debugging).
-11. Please find the [Measurement_File_Naming_and_Folder_Structures.pdf](Measurement_File_Naming_and_Folder_Structures.pdf) file, which describes the measurement file naming and folder structures.
 --------------------------------------------------------------------------------
 
 *Honours:*
