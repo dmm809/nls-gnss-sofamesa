@@ -1,3 +1,5 @@
+# THIS IS THE OFFICIAL REPOSITORY OF NLS GNSS SOFAMESA FROM JULY 12th 2019 ONWARDS!
+
 # Introduction
 *Do you ever compare the performance of different GNSS receivers or Network-RTK methods (VRS, PRS, MAC, MAX, i-MAX, FKP etc.) before investing into one? How do you validate the performance of a GNSS receiver or a Network-RTK method in reality? You can use this software for those purposes.*
 
