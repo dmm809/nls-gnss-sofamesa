@@ -7,6 +7,9 @@
 * Author: Tuukka Mattila. Don't hesitate to contact via LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/tuukkamattila/)
 * Thank you for the help: Topi Rikkinen, Marko Ollikainen, Antti Laaksonen, Hannu Koivula, Octavian Andrei, Mikael Kauhava, Timo Sallinen and Ari Huvinen.
 
+**Upcoming Feature Updates**
+*  https://github.com/dmm809/nls-gnss-sofamesa/projects/1
+
 **Capabilities**
 
 *  Watch [a video of the National Land Survey of Finland](https://www.youtube.com/watch?v=urj7mGjKY9Q)
