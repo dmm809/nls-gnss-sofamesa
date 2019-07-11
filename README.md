@@ -9,7 +9,10 @@
 * Thanks to the National Land Survey of Finland (NLS) for giving me this opportunity to develop NLS GNSS SOFAMESA at the NLS March 11th 2019 - July 11th 2019. This repository is now the official repository of NLS GNSS SOFAMESA from July 12th 2019 onwards.
 
 **Upcoming Feature Updates**
-*  https://github.com/dmm809/nls-gnss-sofamesa/projects/1
+*  The developer updates this based on the received bug reports and feature requests: https://github.com/dmm809/nls-gnss-sofamesa/projects/1
+
+**Bug Reports and Feature Requests**
+*  Submit your bug report(s) or feature request(s): https://github.com/dmm809/nls-gnss-sofamesa/issues
 
 **Capabilities**
 
