@@ -6,6 +6,7 @@
 ### GNSS Position Solution Analysis Software: NLS GNSS SOFAMESA
 * Author: Tuukka Mattila. Don't hesitate to contact via LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/tuukkamattila/)
 * Thank you for the help: Topi Rikkinen, Marko Ollikainen, Antti Laaksonen, Hannu Koivula, Octavian Andrei, Mikael Kauhava, Timo Sallinen and Ari Huvinen.
+* Thanks to the National Land Survey of Finland (NLS) for giving me this opportunity to develop NLS GNSS SOFAMESA at the NLS March 11th 2019 - July 11th 2019. This repository is now the official repository of NLS GNSS SOFAMESA from July 12th 2019 onwards.
 
 **Upcoming Feature Updates**
 *  https://github.com/dmm809/nls-gnss-sofamesa/projects/1
