@@ -1,6 +1,6 @@
 # Source Code (The MIT License)
 
-Copyright (c) 2019 Tuukka Mattila
+Copyright (c) 2019 Tuukka Mattila https://www.linkedin.com/in/tuukkamattila/
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
