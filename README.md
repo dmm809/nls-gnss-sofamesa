@@ -1,7 +1,7 @@
-# NLS GNSS SOFAMESA
+# Introduction
 *Do you ever compare the performance of different GNSS receivers or Network-RTK methods (VRS, PRS, MAC, MAX, i-MAX, FKP etc.) before investing into one? How do you validate the performance of a GNSS receiver or a Network-RTK method in reality? You can use this software for those purposes.*
 
-### GNSS Position Solution Analysis Software of the National Land Survey of Finland
+### GNSS Position Solution Analysis Software: NLS GNSS SOFAMESA
 * Author: Tuukka Mattila. Don't hesitate to contact via LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/tuukkamattila/)
 * Thank you for the help: Topi Rikkinen, Marko Ollikainen, Antti Laaksonen, Hannu Koivula, Octavian Andrei, Mikael Kauhava, Timo Sallinen and Ari Huvinen.
 
